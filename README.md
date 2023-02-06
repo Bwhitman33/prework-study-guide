@@ -6,7 +6,7 @@ My motivation to build this project was to learn more about HTML, CSS, Git, and 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
